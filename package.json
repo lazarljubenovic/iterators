@@ -1,0 +1,17 @@
+{
+  "name": "@lazarljubenovic/iterators",
+  "version": "0.0.1",
+  "description": "Some iterators.",
+  "main": "dst/index.js",
+  "types": "dst/index.d.ts",
+  "repository": "https://github.com/lazarljubenovic/iterators",
+  "author": "lazarljubenovic <lazar.ljubenovic.1995@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  }
+}
